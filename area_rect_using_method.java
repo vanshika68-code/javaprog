@@ -6,7 +6,7 @@ class rectangle{
         System.out.println("area = " + result);
     }
 }
-public class area_using_method {
+public class area_rect_using_method {
     public static void main(String[] args) {
         rectangle r = new rectangle();
         r.area();
