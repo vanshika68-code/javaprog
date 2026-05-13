@@ -1,5 +1,5 @@
 class animal {
-    public void move (){
+    public void move(){
         System.out.println("animal is moving");
     }
     public void eat(){
