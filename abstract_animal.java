@@ -1,5 +1,5 @@
 abstract class animal{
-    int noofwheels;
+    int nooflegs;
     abstract void legs();
 
 }
