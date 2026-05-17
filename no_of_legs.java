@@ -16,7 +16,7 @@ class human extends animal{
     }
 }
 
-public class abstract_animal{
+public class no_of_legs{
     public static void main(String[] args) {
         animal obj = new cow();
         obj.legs();
