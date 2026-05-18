@@ -3,7 +3,7 @@ public class print_array {
         int[] arr = {1,2,3,4,5,6,7,8,9};
         System.out.println("the array is : ");
         for (int i = 0; i<arr.length;i++){
-            System.out.println(""+arr[i]);
+            System.out.print(" "+arr[i]);
         }
     }
 }
